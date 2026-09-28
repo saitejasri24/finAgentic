@@ -1,0 +1,6 @@
+{
+  "name": "FinAgent – Personal Finance AI Agent",
+  "description": "Intelligent personal finance agent for expense tracking, automated categorization, personalized budget planning, overspending detection, savings goals, student mode, and conversational AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
